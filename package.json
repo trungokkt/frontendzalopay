@@ -10,7 +10,7 @@
     "qrcode": "^1.3.3"
   },
   "scripts": {
-    "start": "parcel build  index.html"
+    "now-build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
